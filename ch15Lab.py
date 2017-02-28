@@ -40,7 +40,7 @@ print()
 '''
 
 
-#COULDNT FIGURE OUT THE END OF BINARY
+#COULDN'T FIGURE OUT THE END OF BINARY
 
 print("---Binary Search---")
 file = open("AliceInWonderLand200.txt")
